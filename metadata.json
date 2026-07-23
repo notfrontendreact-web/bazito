@@ -1,0 +1,6 @@
+{
+  "name": "بازی‌تو - BaziTo",
+  "description": "پلتفرم جامع خرید، اجاره بردگیم، رزرو کافه بازی و دستیار هوشمند انتخاب بازی‌های فکری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
